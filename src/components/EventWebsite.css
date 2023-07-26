@@ -11,7 +11,7 @@
   
   .content {
     position: absolute;
-    top: 50%;
+    top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
@@ -27,14 +27,3 @@
     font-size: 1.2rem;
     margin-bottom: 30px;
   }
-  
-  a {
-    display: inline-block;
-    background-color: #007bff;
-    color: #fff;
-    padding: 10px 20px;
-    border-radius: 5px;
-    text-decoration: none;
-    font-weight: bold;
-  }
-  
