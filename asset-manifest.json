@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.c0ff563d.css",
-    "main.js": "/static/js/main.ee91c1a0.js",
-    "static/js/787.9f3722e6.chunk.js": "/static/js/787.9f3722e6.chunk.js",
-    "static/media/logo_dark.png": "/static/media/logo_dark.2a733799eaac141c48dd.png",
-    "static/media/pro_circle_backgrund.jpg": "/static/media/pro_circle_backgrund.6b057524cb3f55b18c3b.jpg",
-    "index.html": "/index.html",
-    "main.c0ff563d.css.map": "/static/css/main.c0ff563d.css.map",
-    "main.ee91c1a0.js.map": "/static/js/main.ee91c1a0.js.map",
-    "787.9f3722e6.chunk.js.map": "/static/js/787.9f3722e6.chunk.js.map"
+    "main.css": "/www.procircle.org/static/css/main.7810fc50.css",
+    "main.js": "/www.procircle.org/static/js/main.662dafc4.js",
+    "static/js/787.9f3722e6.chunk.js": "/www.procircle.org/static/js/787.9f3722e6.chunk.js",
+    "static/media/logo_dark.png": "/www.procircle.org/static/media/logo_dark.2a733799eaac141c48dd.png",
+    "static/media/pro_circle_backgrund.jpg": "/www.procircle.org/static/media/pro_circle_backgrund.6b057524cb3f55b18c3b.jpg",
+    "index.html": "/www.procircle.org/index.html",
+    "main.7810fc50.css.map": "/www.procircle.org/static/css/main.7810fc50.css.map",
+    "main.662dafc4.js.map": "/www.procircle.org/static/js/main.662dafc4.js.map",
+    "787.9f3722e6.chunk.js.map": "/www.procircle.org/static/js/787.9f3722e6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0ff563d.css",
-    "static/js/main.ee91c1a0.js"
+    "static/css/main.7810fc50.css",
+    "static/js/main.662dafc4.js"
   ]
 }
