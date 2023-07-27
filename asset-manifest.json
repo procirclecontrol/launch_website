@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/www.procircle.org/static/css/main.7810fc50.css",
-    "main.js": "/www.procircle.org/static/js/main.662dafc4.js",
+    "main.js": "/www.procircle.org/static/js/main.8eeb91e7.js",
     "static/js/787.9f3722e6.chunk.js": "/www.procircle.org/static/js/787.9f3722e6.chunk.js",
     "static/media/logo_dark.png": "/www.procircle.org/static/media/logo_dark.2a733799eaac141c48dd.png",
     "static/media/pro_circle_backgrund.jpg": "/www.procircle.org/static/media/pro_circle_backgrund.6b057524cb3f55b18c3b.jpg",
     "index.html": "/www.procircle.org/index.html",
     "main.7810fc50.css.map": "/www.procircle.org/static/css/main.7810fc50.css.map",
-    "main.662dafc4.js.map": "/www.procircle.org/static/js/main.662dafc4.js.map",
+    "main.8eeb91e7.js.map": "/www.procircle.org/static/js/main.8eeb91e7.js.map",
     "787.9f3722e6.chunk.js.map": "/www.procircle.org/static/js/787.9f3722e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7810fc50.css",
-    "static/js/main.662dafc4.js"
+    "static/js/main.8eeb91e7.js"
   ]
 }
