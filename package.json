@@ -1,7 +1,7 @@
 {
   "name": "pro-circle",
   "version": "0.1.0",
-  "homepage": "https://procirclecontrol.github.io/launch_website",
+  "homepage": "www.procircle.org",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
